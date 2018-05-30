@@ -1,0 +1,1 @@
+# Prevent-CSFR-using-prevent-CSFR-using-Double-Submit-Cookies-Patterns.
